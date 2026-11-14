@@ -2,7 +2,7 @@
 
 [Tesserae](https://github.com/dmellok/tesserae) (by dmellok, AGPL-3.0) — an e-ink dashboard companion: compose dashboards in the browser, render them server-side and push them to e-ink panels over REST or MQTT. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/4lA1lE)
 
 ## What this template runs
 
